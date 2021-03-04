@@ -35,8 +35,10 @@
 * Ruby 2.7 以前では GNU Readline で対話環境を実装していた      <!-- .element: class="fragment" -->
     * GNU Readline とはテキスト入力を支援する為の汎用ライブラリ
         * カーソル移動やヒストリ補完などの機能が実装されている
+        * emacs mode や vi mode なども実装されている
     * Ruby の標準にもこれをラップした [readline ライブラリ](https://docs.ruby-lang.org/ja/latest/library/readline.html)がある
 * Ruby 2.7 では GNU Readline をピュア Ruby で実装した reline というライブラリが開発され irb はそれを利用するように改良された      <!-- .element: class="fragment" -->
+    * readline の機能が GNU Readline に依存することなく使用できる
 * これにより Ruby 2.7 以降では以下のような機能が irb で利用できるようになった        <!-- .element: class="fragment" -->
     * 複数行編集機能
     * シンタックスハイライト
