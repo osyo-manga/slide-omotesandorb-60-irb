@@ -85,6 +85,11 @@
 * [IRB’s Built-in Measure | Jemma Issroff](https://jemma.dev/blog/irb-measure) 
 
 
+#### 宣伝
+- - -
+
+* 明日 [Machida.rb #09](https://machidarb.doorkeeper.jp/events/119119) あるよ
+
 ---
 
 
