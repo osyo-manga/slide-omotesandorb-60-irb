@@ -89,14 +89,6 @@
 ---
 
 
-#### 宣伝
-- - -
-
-* 明日 [Machida.rb #09](https://machidarb.doorkeeper.jp/events/119119) あるよ
-
----
-
-
 ### ご清聴
 ### ありがとうございました
 
